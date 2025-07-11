@@ -25,7 +25,7 @@ Unlike industry tools such as Intel’s Quartus, ANDless will provide:
 - Direct support for logic-level design and industry-standard HDL integration, easing the learning curve
 - Full customizability of minimization algorithms for research and education
 
-My initial target platform is Linux, focusing on a CLI-first design with gradual expansion to full-featured native frontends. ANDless will be built from the ground up for maintainability and community collaboration. ANDless is not intended to replace massive commercial synthesis suites but rather to bridge the gap between hardware engineering education and professional design tools.
+My initial target platform is Linux, focusing on a CLI-first design with gradual expansion to full-featured native frontends. ANDless will be built from the ground up for maintainability and community collaboration. ANDless is not intended to replace massive commercial syntåhesis suites but rather to bridge the gap between hardware engineering education and professional design tools.
 
 ## Technical Stack
 ### Linux
